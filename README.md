@@ -1,4 +1,4 @@
-# Laravel 9 Livewire 爬取和檢索整個網站
+# Laravel 10 Livewire 爬取和檢索整個網站
 
 引入 spatie 的 laravel-site-search 套件來擴增爬取和檢索整個網站，可以將其視為私密 Google 搜索，被爬取和索引的內容可以高度客製化，搜尋背後是採用 MeiliSearch 搜索引擎來加快查詢速度。
 
